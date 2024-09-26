@@ -12,6 +12,13 @@ This is a fully Kotlin-based note-taking application built with Jetpack Compose.
 - **Dependency Injection**: Hilt is used for dependency management.
 - **Compose UI**: The UI is built entirely using Jetpack Compose.
 
+## Download
+
+You can download the latest APK from the link below:
+
+[Download APK](https://github.com/arashalif/HeliNote/releases/download/v1.0.0/HeliNote.apk)
+
+
 ## Tech Stack
 
 - **Kotlin**: 100% Kotlin codebase.
